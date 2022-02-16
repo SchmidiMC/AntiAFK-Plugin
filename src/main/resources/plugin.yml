@@ -1,0 +1,6 @@
+name: AntiAFK-Farming
+main: de.schmidi.AntiAFK
+version: 2.0
+author: Schmidi
+api-version: 1.13
+description: A plugin to avoid farming blocks or fishing while being afk.
